@@ -3,15 +3,15 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyDW4AqTUIvm10N7CoaNFnM-RsxWOWk1Jks",
+  authDomain: "mygame-2701a.firebaseapp.com",
+  databaseURL: "https://mygame-2701a.firebaseio.com",
+  projectId: "mygame-2701a",
+  storageBucket: "mygame-2701a.appspot.com",
+  messagingSenderId: "1004563239006",
+  appId: "1:1004563239006:web:fa586aaa6326103a3de4cf",
+  measurementId: "G-0RGW5Z69D4"
 };
 
      
